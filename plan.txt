@@ -1,0 +1,10 @@
+Apr 7 CART
+Apr 10 logistic regression, linear regression
+Apr 13 neutrual network
+Apr 16 bayesian analysis
+Apr 19 expectation maximimization
+Apr 22 adaboost
+Apr 25 SVM
+Apr 28 k-means
+May 1 PageRank
+May 4 Apiori
